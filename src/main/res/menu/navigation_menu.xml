@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cari"
+        android:title="Car information"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/parking_guide"
+        android:title="parking Guide"
+        android:orderInCategory="100"
+         />
+    <item
+        android:id="@+id/compass"
+        android:title="Compass"
+        android:orderInCategory="100"
+        />
+
+    <item
+        android:id="@+id/maps"
+        android:title="Google Maps"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/music"
+        android:title="Google Play"
+        android:orderInCategory="100"
+         />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Setting"
+        android:orderInCategory="100"
+        />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        android:orderInCategory="100"
+        />
+</menu>
